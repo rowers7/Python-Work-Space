@@ -1,5 +1,5 @@
 # Python Notebooks
-Kısa konu anlatımı
-Örnekler
-Pratikler
-Challanges
+### Kısa konu anlatımı
+### Örnekler
+### Pratikler
+### Challanges
