@@ -1,2 +1,5 @@
-# Python-al-ma-Notebooks
-Kısa konu anlatımı-Pratikler-Örnekler
+# Python Notebooks
+Kısa konu anlatımı
+Örnekler
+Pratikler
+Challanges
