@@ -1,1 +1,1 @@
-
+# Farklı Fonksiyonlar
